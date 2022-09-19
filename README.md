@@ -4,4 +4,4 @@ I Created clothing store web site that will help people finding good quality pro
 ## My WebSite Azure Link: https://gray-sky-032c12210.1.azurestaticapps.net/
 
 ##HOME PAGE:
-![Home Page](https://user-images.githubusercontent.com/106864499/191045929-9fece7bb-39cb-43fb-8085-ed6b62cd3d3b.png)
+![Home Page](https://user-images.githubusercontent.com/106864499/191046823-ed421740-3572-4203-baf0-59a6318bf7eb.png)
